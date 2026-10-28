@@ -1,0 +1,111 @@
+{
+  "resumeDatas": [
+    {
+      "fullName": "Ammu",
+      "location": "tvm",
+      "jobTitle": "Frontend Developer",
+      "email": "greenabaiju@gmail.com",
+      "contactNumber": "456",
+      "linkedin": "grr",
+      "github": "grr",
+      "degree": "bsc",
+      "university": "kerala",
+      "yog": "2024",
+      "summary": "Creative frontend developer with expertise in building responsive and user-friendly web interfaces using HTML, CSS, JavaScript, and modern frameworks. Passionate about creating engaging user experiences and optimizing web performance.",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Responsive Design",
+        "Tailwind CSS",
+        "Bootstrap",
+        "DOM Manipulation",
+        "Cross Browser Compatibility",
+        "Git"
+      ],
+      "id": 2
+    },
+    {
+      "fullName": "Hima",
+      "location": "tvm",
+      "jobTitle": "UI/UX Designer",
+      "email": "hima@gmail.com",
+      "contactNumber": "7034467329",
+      "linkedin": "hima",
+      "github": "hima",
+      "degree": "bsc cs",
+      "university": "kerala",
+      "yog": "2023",
+      "summary": "UI/UX designer focused on creating intuitive and visually appealing user experiences. Skilled in wireframing, prototyping, and user-centered design to improve product usability.",
+      "skills": [
+        "Figma",
+        "Adobe XD",
+        "Wireframing",
+        "Prototyping",
+        "User Research",
+        "Usability Testing",
+        "Interaction Design",
+        "Design Systems",
+        "Typography",
+        "Color Theory"
+      ],
+      "id": 3
+    },
+    {
+      "fullName": "gree",
+      "location": "ggh",
+      "jobTitle": "React Developer",
+      "email": "greenabaiju@gmail.com",
+      "contactNumber": "5667",
+      "linkedin": "gtt",
+      "github": "gg",
+      "degree": "bsc cs",
+      "university": "kerala",
+      "yog": "333",
+      "summary": "React developer with strong knowledge of component-based architecture, React hooks, and state management. Experienced in building fast, dynamic, and responsive web applications.",
+      "skills": [
+        "React",
+        "JavaScript",
+        "JSX",
+        "React Hooks",
+        "Redux",
+        "Component Lifecycle",
+        "API Integration",
+        "State Management",
+        "HTML",
+        "CSS"
+      ],
+      "id": 4
+    },
+    {
+      "fullName": "gopika",
+      "location": "tt",
+      "jobTitle": "Backend Developer",
+      "email": "gg",
+      "contactNumber": "4455",
+      "linkedin": "gr",
+      "github": "gr",
+      "degree": "bsc cs",
+      "university": "kerala",
+      "yog": "2020",
+      "summary": "Backend developer experienced in building secure and scalable server-side applications. Skilled in REST API development, database management, and ensuring application performance and reliability.",
+      "skills": [
+        "Node.js",
+        "Express.js",
+        "REST API Development",
+        "Database Design",
+        "MongoDB",
+        "SQL",
+        "Authentication & Authorization",
+        "Server Security",
+        "API Integration",
+        "Git",
+        "ffff",
+        "beww",
+        "wordpress"
+      ],
+      "id": 5
+    }
+  ]
+}
